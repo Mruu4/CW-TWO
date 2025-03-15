@@ -13,5 +13,6 @@ public class Owner {
 
     public void displayOwner() {
         System.out.println("Owner: " + name);
+        System.out.println("The car was bought at the price of 1000000$ ");
     }
 }
