@@ -14,5 +14,6 @@ public class Car {
 
     public void displayCar() {
         System.out.println("Car Model: " + model);
+        System.out.println("This car was made in 2025");
     }
 }
