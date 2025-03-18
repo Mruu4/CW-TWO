@@ -1,3 +1,3 @@
-module owners {
+module mdB {
     exports owners;
 }

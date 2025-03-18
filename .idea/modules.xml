@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/CW TWO.iml" filepath="$PROJECT_DIR$/CW TWO.iml" />
       <module fileurl="file://$PROJECT_DIR$/md A/md A.iml" filepath="$PROJECT_DIR$/md A/md A.iml" />
       <module fileurl="file://$PROJECT_DIR$/md B/md B.iml" filepath="$PROJECT_DIR$/md B/md B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mdA/mdA.iml" filepath="$PROJECT_DIR$/mdA/mdA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mdB/mdB.iml" filepath="$PROJECT_DIR$/mdB/mdB.iml" />
     </modules>
   </component>
 </project>

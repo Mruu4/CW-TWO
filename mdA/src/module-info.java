@@ -1,3 +1,3 @@
-module car {
+module mdA {
     exports cars;
 }
